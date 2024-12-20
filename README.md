@@ -1,7 +1,7 @@
 # Amdor Bank Loans Database Design and Queries by Omosede
 
 ## Overview
-The **Amdor_Bank_Loans** database is a relational database designed to manage customer information, transactions, loans, and loan payments efficiently. This README provides a detailed overview of the database structure, constraints, design methodology, and example queries to explore its functionality.
+The **Amdor_Bank_Loans** database is a relational database designed to manage customer information, transactions, loans, and loan payments efficiently. This README provides a detailed overview of the database structure, constraints, design methodology, and example queries to explore its functionality. The aim here is to showcase my ability to create  data from scratch and query accordingly.
 
 ---
 
